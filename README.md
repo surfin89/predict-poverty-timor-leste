@@ -22,3 +22,6 @@ Use CNN to train model to estimate nighttime light using daytime light imagery
 Predict DHS welfare status using the model developed in the previous process.
 
 # The result
+
+R2 is 0.62
+![image](https://user-images.githubusercontent.com/36351927/73823859-a243e500-4855-11ea-91f4-24d7225de2d4.png)
